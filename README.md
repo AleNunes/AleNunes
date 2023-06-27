@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 # 📈 GitHub Stats:
 <img src="https://github-readme-stats-wheat-two-53.vercel.app/api?username=AleNunes&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false&show_icons=true" width="380px" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AleNunes&theme=vue-dark&hide_border=false"  width="400px" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AleNunes&theme=vue-dark&hide_border=false" width="400px" />
 
-![Alex](https://github-readme-stats-wheat-two-53.vercel.app/api/top-langs/?username=AleNunes&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<img src="https://github-readme-stats-wheat-two-53.vercel.app/api/top-langs/?username=AleNunes&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 
 
 
