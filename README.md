@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats-wheat-two-53.vercel.app/api/top-langs/?username=AleNunes&theme=algolia&hide_border=false&include_all_commits=false&count_private=false&layout=compact)  <img src="https://github-readme-stats-wheat-two-53.vercel.app/api?username=AleNunes&theme=algolia&hide_border=false&include_all_commits=false&count_private=false" width="364px" /> 
+![](https://github-readme-stats-wheat-two-53.vercel.app/api/top-langs/?username=AleNunes&theme=algolia&hide_border=false&include_all_commits=false&count_private=false&layout=compact)  <img src="https://github-readme-stats-wheat-two-53.vercel.app/api?username=AleNunes&theme=algolia&hide_border=false&include_all_commits=false&count_private=false" width="370px" /> 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=AleNunes&theme=algolia&hide_border=false"  width="400px" />
 
 
